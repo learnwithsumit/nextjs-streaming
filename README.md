@@ -3,7 +3,7 @@
 Welcome to the official source code repository for the **Next.js Streaming Masterclass 2025** on [YouTube](https://youtube.com/@LearnwithSumit). This tutorial is designed for developers who want a clear, engineering-level understanding of how Next.js optimizes performance through smart Streaming strategies.
 
 🎬 **Watch the full tutorial:**
-👉 [Next.js Streaming Masterclass 2025](https://youtu.be/)
+👉 [Next.js Streaming Masterclass 2025](https://youtu.be/26fu7x8jv_U)
 
 ---
 
